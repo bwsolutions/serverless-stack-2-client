@@ -2,7 +2,7 @@ const dev = {
   STRIPE_KEY: "pk_test_QizypGeMoezZk1jnRUcJeZgj",
   s3: {
     REGION: "us-east-1",
-    BUCKET: "notes-app-mono-uploads-dev-s3bucket-112p8wmmt8a0ncd"
+    BUCKET: "notes-app-mono-uploads-dev-s3bucket-112p8wmmt8a0n"
   },
   apiGateway: {
     REGION: "us-east-1",
