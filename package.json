@@ -2,7 +2,6 @@
   "name": "notes-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://awslabs.local/serverless-stack-2-client/build/",
   "dependencies": {
     "aws-amplify": "^1.1.6",
     "react": "^16.5.2",
