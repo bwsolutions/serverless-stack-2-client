@@ -54,7 +54,7 @@ class App extends Component {
         <Navbar fluid collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to="/">Scratch</Link>
+              <Link to="/">Scratch {process.env.REACT_APP_STAGE === 'dev' ? '- Dev' : ''}</Link>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
